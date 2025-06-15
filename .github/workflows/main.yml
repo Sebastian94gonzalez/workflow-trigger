@@ -7,7 +7,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@4
+        uses: actions/checkout@3
 
       - name: Hello world
         uses: Sebastian94gonzalez/hello-world-javascript-action@main
