@@ -10,7 +10,7 @@ jobs:
         uses: actions/checkout@4
 
       - name: Hello world
-        uses: Sebastian94gonzalez/hello-world-javascript-action
+        uses: Sebastian94gonzalez/hello-world-javascript-action@main
         with: 
           who-to-greet: SEB
 
